@@ -1,5 +1,0 @@
-Create Table dbranking{
-    id_local INT AUTO_INCREMENT KEY PRIMARY,
-    isnta VARCHAR(50) NOT NULL,
-    Pontuação INT(1000)
-}
