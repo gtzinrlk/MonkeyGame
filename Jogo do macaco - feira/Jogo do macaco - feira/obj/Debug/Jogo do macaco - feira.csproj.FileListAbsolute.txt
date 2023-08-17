@@ -1,0 +1,13 @@
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\bin\Debug\Jogo do macaco - feira.exe.config
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\bin\Debug\Jogo do macaco - feira.exe
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\bin\Debug\Jogo do macaco - feira.pdb
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo do macaco - feira.csproj.AssemblyReference.cache
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo do macaco - feira.csproj.SuggestedBindingRedirects.cache
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo_do_macaco___feira.Form1.resources
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo_do_macaco___feira.Properties.Resources.resources
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo do macaco - feira.csproj.GenerateResource.cache
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo do macaco - feira.csproj.CoreCompileInputs.cache
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo do macaco - feira.exe
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo do macaco - feira.pdb
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo_do_macaco___feira.MenuJogo.resources
+D:\Pedro\Programação\Projeto 1\Jogo do macaco - feira\Jogo do macaco - feira\obj\Debug\Jogo_do_macaco___feira.Personagens.resources
